@@ -1,8 +1,0 @@
-name: inspec-workshop
-title: CIS CENTOS7 InSpec Profile   
-maintainer: Bruno Oliveira
-copyright: Bruno Oliveira
-copyright_email: bruno.oliveira@outlook.de
-license: Apache-2.0
-summary: An InSpec Compliance Profile
-version: 0.1.0
